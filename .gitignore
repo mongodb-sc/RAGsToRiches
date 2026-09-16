@@ -15,4 +15,5 @@ logs/
 *.log
 .cursor/
 node_modules/
+docs/demo/.record/
 

@@ -4,6 +4,21 @@ FastAPI + Streamlit retail-banking RAG on MongoDB Atlas: Vector Search, `$graphL
 
 Live demo (when the EC2 host is up): https://54.147.137.184.sslip.io/
 
+## Demo walkthrough
+
+Playwright tour of the live UI — screenshots + video in [`docs/demo/`](docs/demo/):
+
+[![Demo walkthrough](docs/demo/screenshots/01-help-overview.png)](docs/demo/walkthrough.mp4)
+
+- Video: [walkthrough.mp4](docs/demo/walkthrough.mp4) · [walkthrough.webm](docs/demo/walkthrough.webm)
+- Gallery + re-record script: [docs/demo/README.md](docs/demo/README.md)
+
+<p>
+  <img src="docs/demo/screenshots/02-rag-assistant.png" width="32%" alt="RAG Assistant" />
+  <img src="docs/demo/screenshots/04-knowledge-graph.png" width="32%" alt="Knowledge Graph" />
+  <img src="docs/demo/screenshots/08-audit-lineage.png" width="32%" alt="Audit & Lineage" />
+</p>
+
 ## What's in this repo
 
 | Path | Purpose |
